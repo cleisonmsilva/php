@@ -22,5 +22,5 @@ echo ($qualASuaIdade <= $idadeCrianca)?"Criança":
 ($qualASuaIdade < $idadeMelhor)?"Maior":
 "Idoso";
 
-
+//c
 ?>
