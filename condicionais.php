@@ -13,7 +13,7 @@ array_push($pessoas, array(
 ));
 
 
-print_r($pessoas[0]['nome']);
+print_r($pessoas[1]['nome']);
 
 
 echo "<hr>";
